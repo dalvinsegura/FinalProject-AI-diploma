@@ -1,5 +1,6 @@
 # Final Project - AI Diploma
 Overview
+
 This project is the final capstone of an Artificial Intelligence Diploma, applying machine learning techniques to analyze customer behavior and optimize business decision-making. It consists of two main components:
 
 1. Customer Churn Prediction - A supervised learning model that predicts customer attrition based on historical data.
@@ -13,7 +14,9 @@ This project is the final capstone of an Artificial Intelligence Diploma, applyi
 
 ### Objectives
 ✅ Demonstrate AI knowledge gained during the diploma program
+
 ✅ Apply machine learning models to real-world business scenarios
+
 ✅ Develop predictive analytics and customer segmentation strategies
 
 ### How to Use
